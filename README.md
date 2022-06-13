@@ -1,6 +1,6 @@
 ## About Me
 
--> Named as Flow-93061\n
+<div>-> Named as Flow-93061</div>
 -> Just a simple programmer, yet i leant basics of python but currently in learning c/c++ \n
 -> For now i a target that is \nc => data structure and algo => c++ => than learning to make a game using one of the game engine \n[It doesn't mean that i want\n to become a one of the game maker...]\n
 -> After making that game i'm going to learn ml and neuralnetwork\n
